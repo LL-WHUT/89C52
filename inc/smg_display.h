@@ -1,5 +1,5 @@
-#ifndef _SMG_DIAPLAY_H_
-#define _SMG_DIAPLAY_H_
+#ifndef _SMG_DISPLAY_H_
+#define _SMG_DISPLAY_H_
 
 #include<reg52.h>
 #include<delay.h>
@@ -162,4 +162,4 @@ void Smg_display(u8 *input, int xms)
     }
 }
 
-#endif // _SMG_DIAPLAY_H_
+#endif // _SMG_DISPLAY_H_

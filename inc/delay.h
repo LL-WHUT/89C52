@@ -5,7 +5,7 @@
 void delay_ms(u16 xms)
 {
     int i, j;
-    for (i = 0; i < 114; ++i)
+    for (i = 0; i < 110; ++i)
     {
         for (j = 0; j < xms; ++j)
         {
