@@ -1,7 +1,12 @@
-#include <reg52.h>
-#include <keyscan.h>
-u8 test[8]={'3','.','1','4','#'};
+#include <lcd1602.h>
+
 void main()
 {
-    u8 a=keyscan();
+    lcd1602_init();
+    lcd1602_show_string(0, 0, "xx-dev.cn");
+    lcd1602_show_string(0, 1, "19870326.cn");
+
+
+    while (1) {
+    }
 }
