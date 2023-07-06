@@ -1,3 +1,5 @@
-这是一个EIDE项目
+这是一个基于普中开发板的EIDE项目
 
-有价值的就inc文件夹下的一些头文件
+inc文件夹下是一些常用功能的驱动
+
+tools文件夹下是一个烧录hex文件到单片机的python程序，vscode EIDE下Ctrl+ALt+D一键烧录
