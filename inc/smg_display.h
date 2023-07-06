@@ -15,7 +15,7 @@ void Smg_display(u8 *input, int xms)
         {
             i = 0;
             j = 0;
-            while (input[j] != '#')
+            while (input[j] != '\0')
             {
 
                 {
