@@ -57,7 +57,6 @@
 ```sh
 git clone https://github.com/LL-WHUT/89C52.git
 ```
-   或者直接下载ZIP
 3. 安装<a href="https://code.visualstudio.com/">VScode</a> 
 4. 安装VScode插件<br>项目管理：EIDE<br>语法高亮和错误提示等：C/C++ 、 C/C++ Extension Pack 、 C/C++ Themes<br>版本控制(可选)：GitLens
 5. 安装SDCC(Small Device C Compiler)<br>点击VSCode左边的EIDE图标，选择Configure Toolchain，点击第三个Small Device C Compiler(sdcc)。可以选择Online在线自动安装SDCC，也可以选择Local手动安装<a href="https://sdcc.sourceforge.net/snap.php#Windows">SDCC</a>
