@@ -1,3 +1,4 @@
+//矩阵LED显示
 #ifndef _GLED_DISPLAY_H_
 #define _GLED_DISPLAY_H_
 

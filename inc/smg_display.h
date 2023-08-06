@@ -1,3 +1,4 @@
+//动态数码管显示
 #ifndef _SMG_DISPLAY_H_
 #define _SMG_DISPLAY_H_
 

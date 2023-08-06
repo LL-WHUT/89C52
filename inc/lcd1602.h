@@ -44,6 +44,7 @@ void lcd1602_init(void) // lcd1602初始化函数
     lcd1602_write_cmd(0x01); // 清屏
 }
 
+//LCD1602液晶显示
 void lcd1602_clear(void)
 {
     lcd1602_write_cmd(0x01);
