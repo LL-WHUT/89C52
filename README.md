@@ -11,9 +11,9 @@
 <!-- PROJECT LOGO -->
 <br />
 
-  
+  <h3 align="center">使用VSCode+EIDE+SDCC开发51单片机</h3>
   <p align="center">
-    一个基于VSCode+EIDE+SDCC开发51单片机的项目
+    小白向
     <br />
 <!--     <a href="https://github.com/LL-WHUT/89C52"><strong>探索本项目的文档 »</strong></a> -->
     <br />
